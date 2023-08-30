@@ -1,17 +1,17 @@
 {
-  "name": "dojo-nodejs-jumpstart",
+  "{{cookiecutter.project_slug}}": "dojo-nodejs-jumpstart",
   "version": "1.0.0",
-  "description": "Jumpstart for coding NodeJS projects for an XP Dojo",
-  "homepage": "https://github.com/gotreasa/dojo-nodejs-jumpstart#readme",
+  "{{cookiecutter.description}}": "Jumpstart for coding NodeJS projects for an XP Dojo",
+  "homepage": "https://github.com/{{cookiecutter.github_username}}/dojo-nodejs-jumpstart#readme",
   "bugs": {
-    "url": "https://github.com/gotreasa/dojo-nodejs-jumpstart/issues"
+    "url": "https://github.com/{{cookiecutter.github_username}}/dojo-nodejs-jumpstart/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gotreasa/dojo-nodejs-jumpstart.git"
+    "url": "git+https://github.com/{{cookiecutter.github_username}}/dojo-nodejs-jumpstart.git"
   },
-  "license": "ISC",
-  "author": "Gearoid O'Treasaigh",
+  "license": "{{cookiecutter.license}}",
+  "author": "{{cookiecutter.full_name}}",
   "main": "src/Dummy.js",
   "directories": {
     "test": "test"

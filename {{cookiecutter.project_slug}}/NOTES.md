@@ -1,9 +1,9 @@
-# Notes
+# 📝 Notes
 
-**Labels**  
+**🏷️ Labels**  
 ✅ done  
 🚧 WIP  
 ❌ ERROR  
 ⚠ TODO
 
-## Pomodoro 1
+## 🍅 Pomodoro 1
